@@ -1,0 +1,13 @@
+F:\project\SelectNCProgramSample\bin\Debug\SelectNCProgramSample.exe.config
+F:\project\SelectNCProgramSample\bin\Debug\SelectNCProgramSample.exe
+F:\project\SelectNCProgramSample\bin\Debug\SelectNCProgramSample.pdb
+F:\project\SelectNCProgramSample\obj\Debug\SelectNCProgramSample.csproj.AssemblyReference.cache
+F:\project\SelectNCProgramSample\obj\Debug\SelectNCProgramSample.csproj.SuggestedBindingRedirects.cache
+F:\project\SelectNCProgramSample\obj\Debug\SelectNCProgramSample.Form1.resources
+F:\project\SelectNCProgramSample\obj\Debug\SelectNCProgramSample.Properties.Resources.resources
+F:\project\SelectNCProgramSample\obj\Debug\SelectNCProgramSample.csproj.GenerateResource.cache
+F:\project\SelectNCProgramSample\obj\Debug\SelectNCProgramSample.csproj.CoreCompileInputs.cache
+F:\project\SelectNCProgramSample\obj\Debug\SelectNCProgramSample.exe
+F:\project\SelectNCProgramSample\obj\Debug\SelectNCProgramSample.pdb
+F:\project\SelectNCProgramSample\obj\Debug\Interop.OPCAutomation.dll
+F:\project\SelectNCProgramSample\obj\Debug\SelectNCProgramSample.csproj.ResolveComReference.cache
